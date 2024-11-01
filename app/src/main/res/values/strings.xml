@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="my_text">Результат</string>
+    <string name="my_title">Все наоборот</string>
+    <string name="hint_input_text">Поле ввода текста</string>
+    <string name="button_text">Преобразовать</string>
+</resources>
